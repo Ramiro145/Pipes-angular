@@ -1,5 +1,7 @@
 # PipesApp
 
+--Diferentes tipos de pipes que hay en angular y algunas aplicaciones
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
 ## Development server
